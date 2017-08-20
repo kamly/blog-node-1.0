@@ -4,5 +4,5 @@
 
 安装 npm install
 运行 hotnode ./bin/www
-
+查看 localhost:3000
 
